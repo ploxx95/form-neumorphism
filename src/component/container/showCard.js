@@ -23,9 +23,9 @@ const ShowCardStyled = styled.div`
 `;
 
 const usersData = [
-  { id: uuidv4(), task: "comer carne" },
-  { id: uuidv4(), task: "comer pollo" },
-  { id: uuidv4(), task: "dormir" },
+  { id: uuidv4(), task: "estudiar" },
+  { id: uuidv4(), task: "comer" },
+  { id: uuidv4(), task: "trabajar" },
 ];
 
 function ShowCard() {
