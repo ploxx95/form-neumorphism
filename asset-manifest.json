@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/ploxx95/form-neumorphism/static/js/main.2c980fb8.chunk.js",
-    "main.js.map": "/ploxx95/form-neumorphism/static/js/main.2c980fb8.chunk.js.map",
-    "runtime-main.js": "/ploxx95/form-neumorphism/static/js/runtime-main.cf3ef827.js",
-    "runtime-main.js.map": "/ploxx95/form-neumorphism/static/js/runtime-main.cf3ef827.js.map",
-    "static/js/2.e8c0c479.chunk.js": "/ploxx95/form-neumorphism/static/js/2.e8c0c479.chunk.js",
-    "static/js/2.e8c0c479.chunk.js.map": "/ploxx95/form-neumorphism/static/js/2.e8c0c479.chunk.js.map",
-    "index.html": "/ploxx95/form-neumorphism/index.html",
-    "precache-manifest.a2375b97a2bfed043312abe14f4a5282.js": "/ploxx95/form-neumorphism/precache-manifest.a2375b97a2bfed043312abe14f4a5282.js",
-    "service-worker.js": "/ploxx95/form-neumorphism/service-worker.js",
-    "static/js/2.e8c0c479.chunk.js.LICENSE.txt": "/ploxx95/form-neumorphism/static/js/2.e8c0c479.chunk.js.LICENSE.txt",
-    "static/media/cerrar.svg": "/ploxx95/form-neumorphism/static/media/cerrar.5181b95a.svg",
-    "static/media/editar.svg": "/ploxx95/form-neumorphism/static/media/editar.c85cf566.svg"
+    "main.js": "/form-neumorphism/static/js/main.402a858e.chunk.js",
+    "main.js.map": "/form-neumorphism/static/js/main.402a858e.chunk.js.map",
+    "runtime-main.js": "/form-neumorphism/static/js/runtime-main.dacae62f.js",
+    "runtime-main.js.map": "/form-neumorphism/static/js/runtime-main.dacae62f.js.map",
+    "static/js/2.12fd110f.chunk.js": "/form-neumorphism/static/js/2.12fd110f.chunk.js",
+    "static/js/2.12fd110f.chunk.js.map": "/form-neumorphism/static/js/2.12fd110f.chunk.js.map",
+    "index.html": "/form-neumorphism/index.html",
+    "precache-manifest.3af9acc1e66236a14252a71dfce95690.js": "/form-neumorphism/precache-manifest.3af9acc1e66236a14252a71dfce95690.js",
+    "service-worker.js": "/form-neumorphism/service-worker.js",
+    "static/js/2.12fd110f.chunk.js.LICENSE.txt": "/form-neumorphism/static/js/2.12fd110f.chunk.js.LICENSE.txt",
+    "static/media/cerrar.svg": "/form-neumorphism/static/media/cerrar.5181b95a.svg",
+    "static/media/editar.svg": "/form-neumorphism/static/media/editar.c85cf566.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf3ef827.js",
-    "static/js/2.e8c0c479.chunk.js",
-    "static/js/main.2c980fb8.chunk.js"
+    "static/js/runtime-main.dacae62f.js",
+    "static/js/2.12fd110f.chunk.js",
+    "static/js/main.402a858e.chunk.js"
   ]
 }
